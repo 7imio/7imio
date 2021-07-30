@@ -2,15 +2,15 @@
 
 ## I am a french developper
 
+[<img src="https://github.com/AnthonyDeplanque/anthonyDeplanque/blob/main/twitter.png?raw=true">](https://twitter.com/Seteemio)   [<img src = "https://github.com/AnthonyDeplanque/anthonyDeplanque/blob/main/linkedin.png?raw=true">](https://www.linkedin.com/in/anthony-deplanque/)
+
 
 - 🌱 I’m currently working on React and NodeJS
 - 💬 Ask me about guitars and retrogaming, you'll get my attention ! 😄
 - 📫 How to reach me: anthony.deplanque3184@gmail.com
 - ⚡ Fun fact: I can sing death metal.
 
-![](https://github.com/AnthonyDeplanque/anthonyDeplanque/blob/main/twitter.png?raw=true)[Twitter](https://twitter.com/Seteemio)
 
-![](https://github.com/AnthonyDeplanque/anthonyDeplanque/blob/main/linkedin.png?raw=true)[LinkedIn](https://www.linkedin.com/in/anthony-deplanque/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyDeplanque&show_icons=true&theme=tokyonight)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyDeplanque&theme=tokyonight)
 
