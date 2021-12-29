@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently working on React, Typescript and NodeJS with ExpressJS (in TS, by the way)
-- 📖 I'm gaining XP on Promises, React-Redux with Sagas and Firebase !
+- 📖 I'm gaining XP on Firebase, Python and MongoDB !
 - 💬 Ask me about guitars and retrogaming, you'll get my attention ! 😄
 - 📫 How to reach me: anthony.deplanque3184@gmail.com
 - ⚡ Fun fact: I can sing death metal.
