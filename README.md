@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on Typescript, C#, Unity, and Bash.
 - 📖 I'm gaining XP on C#, Unity, Blender and Docker !
-- 🎓 I've got knowledges (not mastering yet) on React and ExpressJS. 
+- 🎓 I've got knowledges on React and ExpressJS. 
 - 💬 Ask me about guitars and retrogaming, you'll get my attention ! 😄
 - 📫 How to reach me: anthony.deplanque3184@gmail.com
 - ⚡ Fun fact: I can sing death metal.
