@@ -2,7 +2,7 @@
 
 ## I am a french developper
 
-[<img src="https://github.com/AnthonyDeplanque/anthonyDeplanque/blob/main/twitter.png?raw=true">](https://twitter.com/Seteemio)   [<img src = "https://github.com/AnthonyDeplanque/anthonyDeplanque/blob/main/linkedin.png?raw=true">](https://www.linkedin.com/in/anthony-deplanque/)
+[<img src = "https://github.com/AnthonyDeplanque/anthonyDeplanque/blob/main/linkedin.png?raw=true">](https://www.linkedin.com/in/anthony-deplanque/)
 
 
 - 🌱 I’m currently working on Typescript, C#, Unity, and Bash.
