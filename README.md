@@ -9,7 +9,7 @@
 - 📖 I'm gaining XP on C#, Unity, Blender and Docker !
 - 🎓 I've got knowledges on React and ExpressJS. 
 - 💬 Ask me about guitars and retrogaming, you'll get my attention ! 😄
-- 📫 How to reach me: anthony.deplanque3184@gmail.com
+- 📫 How to reach me: seteemio@gmail.com
 - ⚡ Fun fact: I can sing death metal.
 
 
